@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ola</h1>
-<h3 align="center">Natively Backend Software Engineer with affinity for the Cloud.</h3>
+<h3 align="center">Java Software Engineer with affinity for the Cloud.</h3>
 
 - 🌱 I’m currently learning **Java, Ruby & Clojure**
 
