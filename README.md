@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **Engineering on AWS, Microsoft Azure & Google Cloud**
 
+- 💬 Researching into **DLTs, Enterprise Blockchain & Hyperledger Fabric**
+
 - 📫 How to reach me **oladipupo.popoola@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/code2cloud](https://linkedin.com/in/code2cloud)
