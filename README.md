@@ -3,9 +3,7 @@
 
 - 💬 Ask me about **Engineering on AWS, Microsoft Azure & Google Cloud**
 
-- 🌱 Researching into **DLTs, Enterprise Blockchain & Hyperledger Fabric**
-
-- 📄 Know about my experiences [https://linkedin.com/in/code2cloud](https://linkedin.com/in/code2cloud)
+- 🌱 Researching into **DLTs & Enterprise Blockchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
