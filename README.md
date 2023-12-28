@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Ola</h1>
-<h3>Java Software Engineer + Cloud Architect.</h3>
+<h3>Java Software Engineer + Cloud Architect (AWS, Azure & GCP).</h3>
 
-- 💬 Ask me about **Engineering on AWS, Microsoft Azure & Google Cloud**
-
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/progzillax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="progzillax" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/code2cloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="code2cloud" height="30" width="40" /></a>
