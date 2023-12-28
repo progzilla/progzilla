@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Ola</h1>
-<h3>Java Software Engineer with affinity for the Cloud.</h3>
+<h3>Java Software Engineer + Cloud Architect.</h3>
 
 - 💬 Ask me about **Engineering on AWS, Microsoft Azure & Google Cloud**
-
-- 🌱 Researching into **DLTs & Enterprise Blockchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
