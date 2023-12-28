@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Ola</h1>
-<h3>Java Software Engineer & Cloud Architect (AWS, Azure & GCP).</h3>
+<h1>Hi, I'm Ola 👋</h1>
+<h3>Java Software Engineer & <br>Cloud Architect {AWS, Azure & GCP}</h3>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
