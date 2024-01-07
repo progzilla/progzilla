@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ola 👋</h1>
 <h3>Java Software Engineer.</h3>
-<h4>    Currently exploring cloud {AWS & Microsoft Azure} careers as a: <br>  - Cloud Engineer,<br>   - DevOps Engineer,<br>   - Platform Engineer &<br>   - Site Reliability Engineer</h4>
+<h4>    Currently skilled as a AWS & Microsoft Azure: <br>  - Cloud Engineer,<br>   - DevOps Engineer,<br>   - Platform Engineer &<br>   - Site Reliability Engineer</h4>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
