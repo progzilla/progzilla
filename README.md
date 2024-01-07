@@ -1,5 +1,6 @@
 <h1>Hi, I'm Ola 👋</h1>
-<h3>Java Software Engineer & <br>Cloud Architect {AWS, Azure & GCP}</h3>
+<h3>Java Software Engineer.<br>
+    Currently exploring careers as a: <br>  - Cloud Engineer,<br>   - DevOps Engineer,<br>   - Platform Engineer &<br>   - Site Reliability Engineer <br>on {AWS, Azure & GCP}</h3>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
